@@ -32,3 +32,5 @@ To run this project, make sure you have the following tools installed:
 2. Tesseract OCR (Optional)
 3. Poppler for Windows - Set your path in script (POPPLER_PATH = r"C:\\path\\to\\poppler\\bin")
 4. Python Packages (pip install easyocr pdf2image Pillow opencv-python transformers accelerate torch)
+5. Ollama and  gemma-1.1-2b-it
+   
